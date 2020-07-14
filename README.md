@@ -1,1 +1,1 @@
-# tsygol-edu
+# tsygol-study
